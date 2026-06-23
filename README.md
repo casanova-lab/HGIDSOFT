@@ -3,9 +3,9 @@ The software hub developed by the Laboratory of Human Genetics of Infectious Dis
 
 
 ## Announcement
-- We are currently moving from The Rockefeller University in New York to UT Southwestern Medical Center in Dallas. 
+- Our lab is currently moving from The Rockefeller University in New York, NY, to UT Southwestern Medical Center in Dallas, TX. 
 - Our current HGIDSOFT webserver will be offline from https://hgidsoft.rockefeller.edu/, until mid July, 2026.
-- Our new HGIDSOFT webserver will be rebuilt in UT Southwestern, and its website link will be released here, once available.
+- Our new HGIDSOFT webserver will be rebuilt in UT Southwestern, and its website will be released once available.
 
 ## Software List
 - 5ULTRA: 5'-UTR variants that impacting on translation
