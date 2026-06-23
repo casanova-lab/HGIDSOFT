@@ -1,10 +1,11 @@
 # HGIDSOFT
-The software hub developed by the Laboratory of Human Genetics of Infectious Diseases (HGID), designed to facilitate and advance human genetics research from multiple dimensions.
-
+The software hub developed by the Laboratory of Human Genetics of Infectious Diseases (HGID), designed to facilitate and advance human genetics research across multiple domains.
+HGIDSOFT provides a collection of bioinformatics tools developed by  HGID to improve the detection, interpretation, and visualization of genetic variation in human disease.
 
 ## Announcement
 - We are currently moving from The Rockefeller University in New York, NY, to UT Southwestern Medical Center in Dallas, TX. 
-- Our current HGIDSOFT webserver will be offline from https://hgidsoft.rockefeller.edu/, until mid July, 2026.
+- The current HGIDSOFT webserver at hgidsoft.rockefeller.edu will be offline during our institutional transition and is expected to return by mid-July 2026.
+- Our current HGIDSOFT webserver will be offline from , until mid July, 2026.
 - Our new HGIDSOFT webserver will be rebuilt in UT Southwestern, and its website will be released once available.
 
 ## Software List
