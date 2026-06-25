@@ -6,7 +6,7 @@ HGIDSOFT provides a collection of bioinformatics tools to improve the detection,
 ## Announcement
 - We are currently moving from The Rockefeller University in New York, to UT Southwestern (UTSW) in Dallas. 
 - The current HGIDSOFT webserver at https://hgidsoft.rockefeller.edu/ will be offline during our transition.
-- The new HGIDSOFT webserver will be rebuilt and released once available, ~mid-July 2026.
+- The new HGIDSOFT webserver will be rebuilt and released once available, ~late-July 2026.
 
 ## Software List
 - 5ULTRA: 5'-UTR variants that impacting on translation
